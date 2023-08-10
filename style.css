@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    color: black;
+    font-family: Arial;
+}
+
+h1,h2,h3{
+    margin-bottom: 50px;
+}
+
+nav{
+    height: 80px;
+    background-color: lightgray;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: right;
+    font-size: 50px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+body{
+    padding-top: 100px;
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 25px;
+}
+
+img.software{
+    border-radius: 8px;
+    width: 900px;
+}
+
+.about{
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+p{
+    text-align: center;
+}
+
+img.basketball{
+    border-radius: 8px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+img.gaming{
+    border-radius: 8px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+img.photography{
+    border-radius: 8px;
+    width: 425px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.portfolio{
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.name{
+    margin-right: 455px;
+}
+
+img.project1{
+    border-radius: 8px;
+    width: 425px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 50px;    
+}
+
+img.project2{
+    border-radius: 8px;
+    width: 425px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+img.project3{
+    border-radius: 8px;
+    width: 425px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
