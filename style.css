@@ -2,7 +2,7 @@
     margin: 0;
     box-sizing: border-box;
     color: black;
-    font-family: Arial;
+    font-family: "Brush Script MT";
 }
 
 h1,h2,h3{
@@ -10,7 +10,7 @@ h1,h2,h3{
 }
 
 .topnav{
-    height: 130px;
+    height: 100px;
     background-color: lightgray;
     position: fixed;
     top: 0;
@@ -28,7 +28,7 @@ h1,h2,h3{
 }
 
 body{
-    padding-top: 140px;
+    padding-top: 110px;
     background-color: aliceblue;
     text-align: center;
     font-size: 25px;
@@ -86,7 +86,7 @@ img.photography{
 }
 
 .name{
-    margin-right: 455px;
+    margin-right: 375px;
 }
 
 img.project1{
