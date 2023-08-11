@@ -118,3 +118,17 @@ img.project3{
     margin-top: 25px;
     margin-bottom: 50px;
 }
+
+.form{
+    font-size: 40px;
+    padding-top: 115px;
+}
+
+input{
+    height: 30px;
+    width: 200px;
+}
+
+.submit{
+    margin-top: 35px;
+}
