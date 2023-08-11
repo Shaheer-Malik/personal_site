@@ -10,7 +10,7 @@ h1,h2,h3{
 }
 
 .topnav{
-    height: 80px;
+    height: 130px;
     background-color: lightgray;
     position: fixed;
     top: 0;
@@ -28,7 +28,7 @@ h1,h2,h3{
 }
 
 body{
-    padding-top: 100px;
+    padding-top: 140px;
     background-color: aliceblue;
     text-align: center;
     font-size: 25px;
