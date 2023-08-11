@@ -9,7 +9,7 @@ h1,h2,h3{
     margin-bottom: 50px;
 }
 
-nav{
+.topnav{
     height: 80px;
     background-color: lightgray;
     position: fixed;
@@ -20,6 +20,11 @@ nav{
     font-size: 50px;
     padding-top: 10px;
     padding-right: 10px;
+}
+
+.topnav a:hover{
+    background-color: white;
+    color: black;
 }
 
 body{
